@@ -38,7 +38,7 @@ Thumbs.db
 ############
 node_modules
 vendor/
-.env
 .env.local
 .env.auth
 *.log
+.env
