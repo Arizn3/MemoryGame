@@ -37,3 +37,8 @@ Thumbs.db
 # Nodes Packages #
 ############
 node_modules
+vendor/
+.env
+.env.local
+.env.auth
+*.log
